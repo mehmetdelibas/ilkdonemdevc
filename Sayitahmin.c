@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
+#include<time.h>
 int main(){
 	int sayi,rastgeleSayi,kacinciTahmin=0,skor=10;
 	srand(time(NULL));
