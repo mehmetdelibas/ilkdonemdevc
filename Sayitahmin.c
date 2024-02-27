@@ -28,45 +28,8 @@ int main(){
 		{
 			if(sayi>rastgeleSayi) printf("Daha kucuk bir sayi girmelisin\n");
 			else printf("Daha buyuk bir sayi girmelisin\n");
-			skor--;
-			
+			skor--;	
 		}
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	return 0;
 }
